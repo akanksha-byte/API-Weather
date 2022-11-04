@@ -83,3 +83,4 @@ const showWeatherData = (weatherData) => {
   
 }
 
+// based on weather and place suggest something and further extend it.
